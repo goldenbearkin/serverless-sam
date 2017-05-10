@@ -22,4 +22,4 @@ Resources:
                 Type: Api
                 Properties:
                   Path: /sam
-                  Method: get
+                  Method: post
